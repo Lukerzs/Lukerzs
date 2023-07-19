@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lukerzs
+- 👋 Hi, I’m @Lukerzs, but my name is lucas Cabral.
 - 👀 I’m interested in gaming, music, math, cybersecurity, network, nerd/geek culture, keybords.
-- 🌱 I’m currently learning web dev, and i'm learning the ccna content to take the test 
+- 🌱 I’m currently learning web dev, and i'm learning the ccna content to take the test
 - 💞️ I’m looking to collaborate on projects that i can learn new things
 
 <!---
